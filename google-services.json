@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "144716719580",
+    "project_id": "brainlet-71f1e",
+    "storage_bucket": "brainlet-71f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144716719580:android:09af122b5ef8c387711b19",
+        "android_client_info": {
+          "package_name": "com.example.android.brainlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144716719580-dim5tnq8os1demg9k4gkcs3523muntb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.brainlet",
+            "certificate_hash": "e49252459a039605b1588008145c6abb079923f7"
+          }
+        },
+        {
+          "client_id": "144716719580-toekug9ke6c8siupl4cdsbcm10qss8nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoU7uRsbz4B3zCpgC-E9XoLdHVwbXtxcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144716719580-toekug9ke6c8siupl4cdsbcm10qss8nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
